@@ -35,7 +35,6 @@ public class FMAClient {
 
 		// System.out.println("root of document = " + ele.getNodeName());
 		// ele.getChildNodes().getLength() // number of curators
-
 		return ele.getElementsByTagName("*").item(0).getNodeName();
 		
 

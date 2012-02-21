@@ -2,7 +2,7 @@ package app.odesanmi.fma;
 
 public class MainTester {
 
-	static String API = "7GU7FIOUDBBZ07DE";
+	static String API = "7GU7FIOUD"; // FMA DEV ID
 
 	public static void main(String[] args) {
 

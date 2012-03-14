@@ -5,7 +5,7 @@ import org.w3c.dom.NodeList;
 
 public class FMAGenresTest {
 
-	static String API = "7GU7FIOUDBBZ07DE";
+	static String API = "7GU7FIOUDXXXXXXXXX";
 
 	public static void main(String[] args) {
 
